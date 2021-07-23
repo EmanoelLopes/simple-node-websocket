@@ -14,7 +14,7 @@ Clone this repo and run the commands below:
 npm install
 ```
 
-2. Open two separate terminals and run a command for each of them:
+2. Open two separated terminals and run a command for each of them:
 
 First:
 ```
